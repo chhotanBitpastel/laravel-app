@@ -1,0 +1,20 @@
+Db url
+https://databases.000webhost.com/index.php?route=/database/structure&db=id22312566_chhotan_laravel_crud
+
+user: id22312566_chhotan_laravel_crud
+password: Chhotan@12345
+
+site link : https://chhotancrud.000webhostapp.com/
+
+Cpannel link:
+https://panel.000webhost.com/dashboard/chhotancrud/databases
+
+password: Chhotan@12345
+
+
+
+
+xSq5RFlITJoisNO77I4XhT6Se9/fKbbtAF7WM/HbLXA=
+https://github.com/ndeet/unzipper (For unzip)
+
+2piq/JdX0YMABjBeCojHfadyZakurZG6rukdvAlS62s=
